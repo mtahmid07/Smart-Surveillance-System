@@ -1,0 +1,5 @@
+Card: FR-10
+Description: GPS Data Capture & Accuracy
+Module: GPS Module
+Priority: High
+Assigned to: Mirza Tahmid Sarowar (23-54521-3)
