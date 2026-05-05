@@ -1,4 +1,4 @@
-FR-01: User Signup and Login
+FR-01: Drone Deploy,Drone Activities,settings
 Descreption : Implement authentication s
 
 
